@@ -1,1 +1,2 @@
 the file is now changed
+Now changed in remote itself
